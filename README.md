@@ -1,0 +1,55 @@
+# Ayunda Risu – Sing Out
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+怯む隙間に闇が広がる
+Surrender
+希望も何も…歌も届かない
+月光はすぐ灰を纏って
+Don't leave me
+霞む骸に 孔雀は嗄らし
+耳を塞ぐ
+一度吸い込んだ勇気は
+誓った刃照らす
+水滴まで蒸発してく
+かつての記憶を辿って
+見つめるべき真実
+心を放とう
+共に助け合うために
+I wanna be, I wanna breathe
+ただ 一緒に高く手を伸ばそう
+繋いでそのまま
+I wanna see, I wanna sing
+Sing out
+この歌に乗せて…
+諦めない 譲らない
+Forever
+抗った跡 涙に添えて
+Reduce
+強さの泉溢れるまでは
+命注ぐ
+二度と立ち尽くさないように
+臆病な影刺す
+這い上がる道を浮かばせて
+厳しくも美しかった
+あの景色のままで
+決意曝け出そう
+伝えたい言葉の中で
+I wanna be, I wanna breathe
+ただ 純白の証を届けよう
+儚くも強く
+I wanna see, I wanna sing
+Sing out
+鼓動に合わせて
+ありのまま 叫ぶよ
+歪んだ後に見えてく
+醜い粗い形
+隙間なく 今埋め込んで
+乗り越えていこう
+I wanna see, I wanna sing
+Sing out
+この歌に乗せて…
+諦めない 譲らない
+Forever
+```
