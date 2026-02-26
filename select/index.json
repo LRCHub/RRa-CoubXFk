@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "Sing Out",
+  "base_artist": "Ayunda Risu",
+  "createdAt": "2026-02-26T07:56:27.909814Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sing Out",
+      "artist": "Lisa Loeb",
+      "has_synced": true,
+      "path": "select/01_Sing_Out_Lisa_Loeb.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sing Out The Song",
+      "artist": "Wishbone Ash",
+      "has_synced": true,
+      "path": "select/02_Sing_Out_The_Song_Wishbone_Ash.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If You Want to Sing Out, Sing Out",
+      "artist": "Cat Stevens",
+      "has_synced": true,
+      "path": "select/03_If_You_Want_to_Sing_Out,_Sing_Out_Cat_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If You Want To Sing Out",
+      "artist": "Cat Stevens",
+      "has_synced": true,
+      "path": "select/04_If_You_Want_To_Sing_Out_Cat_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If You Want To Sing Out, Sing Out",
+      "artist": "Cat Stevens",
+      "has_synced": true,
+      "path": "select/05_If_You_Want_To_Sing_Out,_Sing_Out_Cat_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If You Want To Sing Out Sing Out",
+      "artist": "Cat Stevens",
+      "has_synced": true,
+      "path": "select/06_If_You_Want_To_Sing_Out_Sing_Out_Cat_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If You Want to Sing Out, Sing Out",
+      "artist": "Stevens, Cat",
+      "has_synced": true,
+      "path": "select/07_If_You_Want_to_Sing_Out,_Sing_Out_Stevens,_Cat.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sing Out",
+      "artist": "Jesus Culture",
+      "has_synced": true,
+      "path": "select/08_Sing_Out_Jesus_Culture.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "If You Want To Sing Out, Sing Out",
+      "artist": "Cat Stevens",
+      "has_synced": true,
+      "path": "select/09_If_You_Want_To_Sing_Out,_Sing_Out_Cat_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sing Out",
+      "artist": "Paul Baloche",
+      "has_synced": true,
+      "path": "select/10_Sing_Out_Paul_Baloche.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sing out of Tune",
+      "artist": "The Used",
+      "has_synced": true,
+      "path": "select/11_Sing_out_of_Tune_The_Used.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Song the World Can Sing out Loud",
+      "artist": "A Change of Pace",
+      "has_synced": true,
+      "path": "select/12_A_Song_the_World_Can_Sing_out_Loud_A_Change_of_Pace.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sing Me to Sleep",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/13_Sing_Me_to_Sleep_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sing Me to Sleep",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/14_Sing_Me_to_Sleep_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Still Sing the Old Songs",
+      "artist": "David Allan Coe",
+      "has_synced": false,
+      "path": "select/15_I_Still_Sing_the_Old_Songs_David_Allan_Coe.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sing Me Back Home",
+      "artist": "Merle Haggard & The Strangers",
+      "has_synced": true,
+      "path": "select/16_Sing_Me_Back_Home_Merle_Haggard_&_The_Strangers.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sing For The Moment",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/17_Sing_For_The_Moment_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sing Another Song, Boys",
+      "artist": "Leonard Cohen",
+      "has_synced": false,
+      "path": "select/18_Sing_Another_Song,_Boys_Leonard_Cohen.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Do Sing for You",
+      "artist": "Majical Cloudz",
+      "has_synced": true,
+      "path": "select/19_I_Do_Sing_for_You_Majical_Cloudz.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Political Song for Michael Jackson to Sing",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/20_Political_Song_for_Michael_Jackson_to_Sing_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Sing Along",
+      "artist": "múm",
+      "has_synced": true,
+      "path": "select/21_Sing_Along_múm.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Sing For Absolution",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/22_Sing_For_Absolution_Muse.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Sing Me Spanish Techno",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/23_Sing_Me_Spanish_Techno_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Sing With Your Eyes",
+      "artist": "Jon & Vangelis",
+      "has_synced": false,
+      "path": "select/24_Sing_With_Your_Eyes_Jon_&_Vangelis.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Sing Us One of Your Songs May",
+      "artist": "Bill Fay",
+      "has_synced": false,
+      "path": "select/25_Sing_Us_One_of_Your_Songs_May_Bill_Fay.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "All The Children Sing",
+      "artist": "Todd Rundgren",
+      "has_synced": true,
+      "path": "select/26_All_The_Children_Sing_Todd_Rundgren.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sing Out",
+      "artist": "Ayunda Risu",
+      "has_synced": false,
+      "path": "select/pl_01_Sing_Out_Ayunda_Risu.txt"
+    }
+  ]
+}
